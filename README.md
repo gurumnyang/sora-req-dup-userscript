@@ -10,7 +10,7 @@ Greasemonkey 유저스크립트,
 ## 설치
 
 1. 브라우저에 [Tampermonkey](https://www.tampermonkey.net/) 또는 호환 매니저 설치
-2. 새 스크립트 추가 후 `req-dup.user.js` 내용 붙여넣기
+2. [👉 Install Script](https://raw.githubusercontent.com/gurumnyang/sora-req-dup-userscript/main/sora-req-dup.user.js)
 
 ---
 
